@@ -1,0 +1,8 @@
+<span id="a">terminal@smf</span>:<span id="b">~</span><span id="c">$</span> cat melvin.txt<br/><br/>
+Hi there! I am Shubham Melvin Felix<!-- laglaglaglaglaglagalasjlksjuhsdbsdbasdbajjss---><p>Thank you for stopping by.</p><!-- laglaglaglaglaglagalasjlksjuhsdbsdbasdbajjssaglag --><p>I am a 4th year undergrad student in Information Technology from Sathyabama University, Chennai.</p><!-- qowifjqwoeijfoqweijfqweoifjqwjfqiwoefjj -->
+<p>I'm a very curious person who always likes to explore new things. If your are of the same kind,lets catch up socially on Facebook.<a href="https://www.facebook.com/shubham.elvismichael" target="_blank">Click Me!</a></p><!- oqwipjefqwfoikjasnojancjnc-->
+<p>I am a designer and a developer. So you find me everywhere.<br><!-- owoefjwef -->
+ Thus I always considered myself a designer by heart and a developer by choice.</p>
+If you would like to get in touch with me, whether it be for tech support, regarding projects, or to just say hi<!-- slightdelayhere-->, feel free to do so.<!-- longlongcomment --> My email address is: <a href="mailto:felix.melvin1117@gmail.com" target="_blank">felix.melvin1117@gmail.com</a> and my Twitter is: <a href="https://twitter.com/felix_melvin117" target="_blank">@felix_melvin117</a>.
+<p>And if you haven't already, be sure to check out my GUI website <a href="../index.php" target="_blank">http://www.smfelix.com</a> and can always follow me on Instagram <a href="https://www.instagram.com/shubhamfelix/" target="_blank">@shubhamfelix</a>.</p>
+<!---- laglgciah------->
